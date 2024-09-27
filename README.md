@@ -8,3 +8,4 @@ Otra vez nuevo reintento.
 Desde vscode y terminal de integrada.
 ejecutando --unset credential.
 Despues de Reiniciar.
+Probando el comando git push origin main --credential-cache=0
